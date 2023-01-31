@@ -1,4 +1,3 @@
-.gitignore
 geckodriver.log
 img.jpg
 image_test.py
