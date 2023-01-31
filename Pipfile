@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+bs4 = "*"
+selenium = "*"
+lxml = "*"
+requests = "*"
+psycopg2 = "*"
+"discord.py" = "*"
+"discord.py-pagination" = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
